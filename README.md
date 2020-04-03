@@ -24,4 +24,5 @@ GMSServices.provideAPIKey("YOUR API KEY")
 ```
 
 ### Screenshots
-- ![PolyMaker](https://i.ibb.co/QnztNLw/Whats-App-Image-2020-04-02-at-17-52-36.jpg)
+- ![Editor Mode](https://i.ibb.co/ZLmBSmB/Whats-App-Image-2020-04-03-at-11-26-38.jpg)
+- ![Normal Mode](https://i.ibb.co/dKP4VyP/Whats-App-Image-2020-04-03-at-11-26-44.jpg)
